@@ -14,7 +14,6 @@ int main() {
   float pib;
   int npontoturistico;
 
-
   // Área para entrada de dados
   printf("Digite a letra do Estado da primeira carta: \n");
   scanf("%s", &estado);
@@ -36,7 +35,6 @@ int main() {
 
   printf("Digite a quantidade de pontos turísticos da cidade da primeira carta: \n");
   scanf("%int", &npontoturistico);
-
 
   // Área para exibição dos dados da cidade
   printf("Estado: %s \n", estado);
